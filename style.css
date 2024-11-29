@@ -1,0 +1,124 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: Poppins;
+    background-image: url("images/Palumbanes-Opacity.jpeg");
+
+}
+
+h1{
+    font-family: DynaPuff;
+    font-size: 70px;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    font-family: Poppins;
+    margin: 7px 7px;
+    padding: 2px;
+}
+
+h3{
+    font-family: Poppins;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.lead{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.imge{
+    height: 60px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 30px;
+}
+
+.body1{
+    font-size: 25px;
+    font-weight: 500;
+    padding: 0px;
+    margin: 0px;
+}
+
+.body2{
+    font-size: 15px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.section1 {
+    color: #FA7070;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+p{
+ padding: 0px;
+ margin: 0px;
+}
+
+.square1{
+    height: auto;
+    width: auto;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    border: solid 0.5px gray;
+    margin-bottom: 10px;
+    flex-basis: 500px;
+    background-color: #FBF2CF;
+    display: inline-block;
+}
+
+.square2{
+    height: auto;
+    width: auto;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    border: solid 0.5px gray;
+    margin-bottom: 0px;
+    flex-basis: 400px;
+    background-color: #FBF2CF;
+    display: inline-block;
+}
+
+.square3{
+    height: auto;
+    width: auto;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    border: solid 0.5px gray;
+    margin-bottom: 0px;
+    flex-basis: 400px;
+    background-color: #C6EBC5;
+    display: inline-block;
+}
+
+.inside{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-basis: auto;
+}
+
+ul {
+    list-style-type: square;
+    font-size: 20px;
+    list-style-position: outside;
+}
