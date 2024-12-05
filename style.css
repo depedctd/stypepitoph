@@ -143,14 +143,14 @@ ul {
 }
 
 table, th, td {
-    border: 1px none gray;
+    border: 1px solid gray;
     border-collapse: collapse;
     
 }
 
 th,td {
     color: black;
-    background-color: #A1C298;
+    background-color: none;
     border-radius: 10px;
     padding: 6px;
     text-align: left;
